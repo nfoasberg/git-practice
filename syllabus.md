@@ -24,3 +24,7 @@ This class depends on your participation. Some of the readings will be identifie
 ## Accounts
 
 You will need a Wordpress account and a [Wikipedia](https://www.wikipedia.org/) account. 
+
+## Accommodation
+
+Please let me know if you require special accommodation. 
